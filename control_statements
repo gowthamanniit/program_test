@@ -1,0 +1,17 @@
+1)max of two numbers
+2)min of two numbers
+3)max of 3 numbers
+4)min of 3 numbers
+5) find given no. is +ve or -ve or 0
+6) find given no. is odd or even
+7) find given no. is divisible by 5 or not?
+8) given year is leap year or not
+9) find result (pass/fail) given a mark?  (min:35 max:100)
+10) find result (pass/fail) given 5 marks?
+11) find grade( >=85 outstanding, >=75 excellent,  >= 65 good , else fair
+12) eb bill( unit<=100   free,  unit>=101 && unit<=200  rs.2/unit,  unit>=201 && unit<=300 rs.3/unit, unit>=301  rs.5/unit.)
+13) given text is palindrome or not
+14) given age is eligible to vote? >=18
+15) eligible to marriage?  conditions :  gender: male/female , enter age: >=23(male), age>=21(female)
+16)
+
