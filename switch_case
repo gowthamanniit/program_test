@@ -1,0 +1,24 @@
+1) program 1
+Enter 2 numbers:
+  ---
+  ---
+1. add, 2. sub, 3. mul 4. div 
+enter your choice: 1 or 2 or 3 or 4
+----------------------------------------
+2)
+enter month: 1 or 3 or 5 or 7 or 8 or 10 or 12
+output: no. of days : 31
+
+enter month: 2
+enter year: 2000 or 2001
+output: no. of days : 29 or 28
+
+enter month: 4 6 9 11
+no. of days: 30
+--------------------------------------------
+3) enter number: 0    (single digit 0 to 9)
+output: zero            one two....
+----------------------------------------
+
+
+
