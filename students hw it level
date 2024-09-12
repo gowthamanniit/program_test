@@ -1,0 +1,1007 @@
+1) write a program to find given no. is even or odd?
+
+2) given no. is +ve or -ve or 0
+
+3) given no. is divisible by 9
+
+4) given year is leap year or ordinary year
+
+5) given age is eligible to vote?
+
+6) student mark list (faculty)
+   find tot,avg,res,grade
+
+7) Eb statement:
+
+		input: enter no. of units: 100     110
+		output: total amt: Rs.0             50
+
+conditions:
+	unit<=100 -------------> Rs. 0/unit
+	101 to 200-------------> Rs. 2/unit  (unit>=101 && unit<=200)
+		ex: 150
+		amt: 50x2=100
+		min bill: 50
+	201 to 300-------------> rs.3/unit
+		ex: unit: 250 (0+200+150)
+		    amt: 350
+	301 to 400 -----------> rs. 4/unit
+		ex: unit :350(0+200+300+200)
+		    amt:700
+	401 onwards --------> rs. 7/unit
+
+8) using switch case : don't print result when display invalid choice
+
+
+9) Enter year:2000
+   Enter month: 2
+
+	no. of days: 29
+
+  using switch case.
+
+10)
+ Enter n value:5
+ 1+2+3+4+5+
+
+11) sum of series:
+	Enter n value:6
+	1+2+3+4+5+6=21
+
+13) sum of serires:
+	Enter n value:7
+	1-2+3-4+5-6+7=4
+
+14) sum of series: 5
+	5^2+4^2+3^2+2^2+1^2
+	25+16+9+4+1
+	55
+=====================
+using charAt function
+15) Enter your Text: sharvesh karur
+    Total No. of vowels: 4
+    vowels: a e a u
+
+16) Enter your name: gowthaman
+    reverse Text: namahtwog
+
+17) Enter your text: sharvesh
+    output:          shhsaerv
+
+    another ex: 	raman	
+			rnaam
+18) Enter Text: i am so good
+    Enter Search char: o
+	output:
+	o is found at index: 6
+	o is found at index: 9
+	o is found at index: 10
+    another ex:
+    Enter Text: gowthaman from karur
+    Enter Search char: z
+	output:
+	z is not found
+
+19)   Remove all spaces
+	Enter Text: i am so good
+	output: iamsogood
+
+20) word wise counting:
+    ===================
+    Enter Text: i am from karur my name is sharvesh.
+	output: 1 2 4 5 2 4 2 8
+
+
+21) Enter Text: GowthaMan @passwoRd !#123kaRur
+
+output:
+	Caps: GMRR
+	small:owthaanpasswodkaur
+	nos:123
+	special char:@!#
+	space:2
+
+22) Fibbonacci series:
+	Enter no. of values: 5
+
+	output:
+		0 1 1 2 3
+	another ex:
+	Enter no. of values:8
+	output:
+		0 1 1 2 3 5 8 13
+
+23) check given no. is prime or not?
+
+	enter no: 5
+	output:
+	5 is prime number
+
+	another ex:
+	enter no: 6
+	6 is not a prime because divide by 2
+	
+	note:
+	prime no. starting 2
+
+	anoter ex:
+	enter no.1 or 0 or -2
+
+	output:
+	invalid input
+
+24) Reverse number (result in single variable)
+
+25) sum of even and odd numbers
+
+using one d array+for loop (initialization)
+============================================
+int arr[]={10,20,33,44,55,0,100,5,9,-10,99,-40,65,-10};
+
+26) find biggest value in an array(dont use sort)
+
+27) find second biggest value in array(dont use sort)
+
+28) sum of array
+
+29) sum of even numbers in an array
+
+30) sum of odd numbers in an array
+
+31) display only -ve numbers (0 not print)
+
+32) display only +ve numbers (0 not print)
+
+33) find no. in an array
+
+	ex:
+		enter number: 55
+	output:
+
+		55 is found at index:4
+	ex:
+		enter number:9873
+		9873 is not found
+34) get character and display char using one dimensional array 	runtime
+35) ,, display only vowels (dont use charAt function)
+
+36)faculty
+ 11 12 13 14 15
+ 21 22 23 24 25
+ 31 32 33 34 35
+ 41 42 43 44 45
+ 51 52 53 54 55
+
+37) 
+51 52 53 54 55
+41 42 43 44 45
+31 32 33 34 35
+21 22 23 24 25
+11 12 13 14 15
+
+38)
+15 14 13 12 11
+25 24 23 22 21
+35 34 33 32 31
+45 44 43 42 41
+55 54 53 52 51
+
+39)   
+55 54 53 52 51
+45 44 43 42 41
+35 34 33 32 31
+25 24 23 22 21
+15 14 13 12 11
+
+40) 
+ 11 
+ 21 22 
+ 31 32 33 
+ 41 42 43 44 
+ 51 52 53 54 55	
+
+41) 
+55
+45 44
+35 34 33
+25 24 23 22 
+15 14 13 12 11
+42)
+Enter your name:sathiya
+output:
+s
+sa
+sat
+sath
+sathi
+sathiy
+sathiya
+43)
+Enter no. of rows: 7
+1
+2 3
+3 4 5
+4 5 6 7
+5 6 7 8 9
+6 7 8 9 10 11
+7 8 9 10 11 12 13   
+44)
+Enter n value: 5
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
+
+45) 
+15 14 13 12 11
+25 24 23 22
+35 34 33
+45 44
+55
+
+46)
+51 52 53 54 55
+41 42 43 44
+31 32 33
+21 22
+11
+
+47) enter text: karur
+output:
+	k a r u r
+	k a r u
+	k a r
+	k a
+	k
+
+48) Enter text: sharvesh
+	h s e v r a h s
+	h s e v r a h
+	h s e v r a
+	h s e v r
+	h s e v
+	h s e
+	h s
+	h
+	
+49) faculty
+ 11 12 13 14 15
+    22 23 24 25
+       33 34 35
+          44 45
+             55
+50)
+Enter n value: 7
+* * * * * * *
+  * * * * * *
+    * * * * *
+      * * * *
+        * * *
+	  * *
+	    *
+51) 
+55 54 53 52 51
+   44 43 42 41
+      33 32 31
+         22 21
+            11
+
+52)
+            11
+         22 21
+      33 32 31
+   44 43 42 41
+55 54 53 52 51
+
+53)
+            55
+         44 45
+      33 34 35
+   22 23 24 25
+11 12 13 14 15
+
+54) Enter Text: karur
+k a r u r
+  a r u r
+    r u r
+      u r
+        r
+
+55) Enter Text: karur
+k a r u r
+  k a r u
+    k a r
+      k a
+	k
+
+=================================
+56)
+5 4 3 2 1
+  5 4 3 2
+    5 4 3
+      5 4
+        5
+57)
+        5
+      5 4
+    5 4 3
+  5 4 3 2
+5 4 3 2 1
+     
+58)Enter n value: 7 (input should be odd)
+
+*       *
+ *    *
+  *  *
+   *
+  * *
+ *   *
+*     *
+59) Enter table no starting: 2
+    enter tabl no. ending: 6
+
+1 x 2 = 2     1X3=3    1X4=4  1X5=5   1x6=6
+2 x 2 = 4     2x3=6    2x4=8  2x5=10  2x6=12
+............
+...............
+10x2=20     10x3=30  10x4=40...............
+
+60) display prime numbers given range:
+	enter start range: 20
+	enter end range: 50	
+    output:
+	23 29 31 37 41 43 47 
+61) 
+    Enter Text: i  am     from          karur  my   name    is    sharvesh.
+
+    count space: 2 5 10 2 3 4 4
+ note: single for loop enough
+=============
+62) 
+    Enter Text: i am from karur my name is sharvesh.
+
+    word count: 1 2 4 5 2 4 2 8
+ note: single for loop enough
+
+63)
+    Enter Text: i  am     from          karur  my   name    is    sharvesh.
+
+   remove continous space: i am from karur my name is sharvesh.
+note: don't use replace inbuilt function
+
+=============
+64) sorting numbers:(nested loop)
+
+	int arr[]={88,12,78,89,4,23};
+
+
+index:0				88>  12   12>  12>  12>  4>
+index:1 2 3 4 5			12   88   78   89   4    23
+
+index:1				
+index:2 3 4 5
+
+index:2
+index:3 4 5
+
+index: 3
+index: 4 5
+
+index:4
+index:5
+
+65)remove duplicates in an array
+	
+	arr[]={11,11,11,23,11,44,555,23};
+
+output:
+	11 23 44 555
+
+logic:
+       arr[0]   11
+
+       arr[1]   11-don't print
+
+       arr[2]   11-don't print
+
+       arr[3]   23
+
+	arr[4]  11 don't print
+
+	arr[5]  44 
+
+	arr[6] 556 
+
+	arr[7]  23 don't print
+
+66) String name[]={"zameer","anbu","arivu","banu","chitra","devi","abi","ramesh"};
+
+  alphabetical order
+ output: abi, anbu, arivu, banu, chitra,devi,ramesh,zameer
+ note: don't use < > <= >= == != 
+
+67) String name[]={"zameer","anbu","arivu","banu","chitra","devi","abi","ramesh"};
+
+ print vowels:
+
+  name 1: aee
+  name 2: au
+  name 3: aiu
+  name 4: au
+  name 5: ia
+  name 6: ei
+  name 7: ai
+  name 8: ae
+
+68) String names[]={"zameer","anbu","arivu","banu","chitra","devi","abi","ramesh"};
+
+  alphabetical order each name:
+
+ name 1: aeemrz
+ name 2: abnu
+ name 3: airuv
+ name 4: abnu
+ name 5: achitr
+ ..........
+
+69) Enter Text:(vowels) using contains inbuilt function
+
+	GowTHAMaNKAruR
+        oAaAu
+
+70)
+pyramid    triangle:
+
+enter no. of rows: 5
+
+	    15 
+         24 25 26
+      33 34 35 36 37 
+   42 43 44 45 46 47 48 
+51 52 53 54 55 56 57 58 59
+
+
+71) pyramid triangle:
+
+enter no. of rows: 5
+
+11 12 13 14 15 16 17 18 19
+   22 23 24 25 26 27 28
+      33 34 35 36 37
+         44 45 46
+            55
+72) Enter text: karur(odd text)
+k a r u r
+  a r u
+    r
+ex:
+   Enter text: sharves
+s h a r v e s 
+  h a r v e
+    a r v
+      r
+73) dymond
+ Enter no. of rows: 7 (input must be odd)(only 2 for loop)
+
+         14
+      23 24 25
+   32 33 34 35 36
+41 42 43 44 45 46 47
+   52 53 54 55 56
+      63 64 65
+         74
+
+74) Matrix row wise total:
+
+enter no. of rows:3
+enter no. of columns:2
+
+enter value at index 00 : 10
+enter value at index 01 : 20
+enter value at index 10 : 15
+enter value at index 11 : 25
+enter value at index 20 : 30
+enter value at index 21 : 50
+
+output:
+
+10 20 = 30
+15 25 = 40
+30 50 = 80
+
+75) Enter no. of rows: 5
+
+ 1
+ 3  2
+ 6  5  4
+10  9  8  7
+15 14 13 12 11
+
+step 1:
+ 11 
+ 21 22 
+ 31 32 33 
+ 41 42 43 44 
+ 51 52 53 54 55	
+
+step 2:
+ 1+0-----> 1
+ 2+1-----> 3
+ 3+3-----> 6
+ 4+6-----> 10
+ 5+10----> 15
+
+step 3:
+	1
+	3 2
+	6 5 4
+	10 9 8 7
+	15 14 13 12 11
+76) 
+	inverse matrix
+
+	input:
+	11 22 33
+	44 55 66
+	77 88 99
+
+	output:
+
+	11 44 77
+	22 55 66
+	77 88 99
+ 77) Armstrong number:
+
+	Enter number: 153
+
+	output: 153 is armstrong number
+
+logic:
+	153%10 -----> 3 = 3*3*3 = 27
+	15%10 ------->5 = 5*5*5 =125
+         1%10-------> 1 = 1*1*1 =  1 
+			------------
+				153
+
+	
+
+78) perfect number:
+	enter number: 6
+
+ output: 6 is perfect number
+
+	ex: enter number: 7
+	7 is not perfect number
+
+logic:
+
+	6/1 6/2 6/3 - - 6/6(skip itself)
+
+	1+2+3=6
+
+	28/1 28/2 28/4 28/7 28/14   28/28(skip)
+	1+2+4+7+14=28 (perfect number)
+
+79) given text is palindrome or not?
+
+	Enter your text: madam
+	output:palindrome
+
+	ex: liril malayalam amma appa
+
+
+	logic:
+	originalstext==reversetext
+
+
+	don't use == to check string equal or not
+
+80) display all perfect no's from given range
+
+	enter start number: 2
+	enter end number: 100
+
+	output: 6 28
+
+note: starting no. 2
+	
+
+81) matrix multiplication
+=========================
+
+
+	first matrix		second matrix
+	2 5 4			1 2 3 4
+	1 3 7			4 8 9 1
+	5 6 9			2 5 6 1
+
+
+rules: first matrix column == second matrix row
+
+	2+20+8   4+40+20   6+45+24   8+5+4    
+	1+12+14  2+24+35   3+27+42   4+3+7 
+	5+24+18  10+48+45  15+54+54  20+6+9
+
+
+	30 64 75   17
+        27 61 72   14
+        47 103 123 35
+
+82) display numbers from 1..100 only divisible by 8
+
+83) String var[]={"raja","gowthaman","abi","sharveshkarur","ram"};
+output: sharveshkarur (13 chars)
+
+84) ascending order each name charwise
+String var[]={"raja","gowthaman","abi","sharveshkarur","ram"};
+output:
+aajr
+aaghmnotw
+abi
+aaehhkrrrssuv
+amr
+
+85)  find max number row wise
+
+	12  45  66  77 = 77
+	89  56  92  76 = 89
+	78  65  67  89 = 89
+	99  65  89  81 = 99
+
+86) diagonal wise total
+
+	11 23 45
+	34 45 45
+	10 20 30
+
+	output: 11+45+30 = 86
+
+87) delete value from an array
+
+	ex:
+	int arr[]={11,22,33,44,55};
+
+	enter value to be deleted: 33 
+
+	output:
+		{11,22,44,55} 
+
+88) insert value to array
+
+	ex:
+	int arr[]={11,22,33,44,55};
+
+	enter value:99
+	enter index: 2
+
+	output:
+	{11,22,99,33,44,55}
+
+89)
+	int arr[]={11,22,33,44,11,22,55};
+
+	unique values count:3
+	values: 33 44 55
+90)
+	int arr[]={11,22,33,44,11,22,55};
+
+	duplicates values count: 2
+	values: 11 22
+
+91) merge or combine or join array
+
+    int arr[]={11,22,33,44,55};
+    int brr[]={44,55,66,77,88};
+
+  result array: 11 22 33 44 55 66 77 88
+
+92) common values in two arrays:
+    int arr[]={11,22,33,44,55};
+    int brr[]={44,55,66,77,88};
+
+  result array: 44 55
+
+93) enter n value: 7 (input only odd numbers)
+
+   11
+   21 22
+   31 32 33
+   41 42 43 44
+   51 52 53
+   61 62
+   71
+
+94) enter n value : 7 (input should be odd one)
+
+	 11
+      22 21
+   33 32 31
+44 43 42 41
+   53 52 51
+      62 61
+         71 
+	
+95) find no. of words
+
+ex: my name is gowthaman i am from karur
+
+no. of words:8
+
+96) remove common chars from 2 names
+
+ex:1
+	name1: raja
+	name2: rani
+
+output: jani
+ex:2
+	name1: ramesh
+	name2: kavitha
+
+output: rmeskvita
+
+97) Remove char from a text
+ 
+   Enter Text: sharvesh
+    Enter Remove char:h          (z)
+
+output: sarvesh			z is not found
+
+98) Remove prefix text:
+	Enter text: sharvesh
+	Enter prefix text: shar     abc
+
+output:	vesh           		    abc not found
+
+
+99) Remove suffix text	
+	Enter text: sharvesh
+	Enter prefix text: vesh     abc
+
+output:	shar           		    abc not found
+
+100) convert all chars to upper case:
+
+	Enter Text:gowTHamAn
+
+	output: GOWTHAMAN
+101) convert all chars to lower case:
+	sample:1
+	Enter Text: gowTHAMaN@@#$
+	output: gowthaman@@#$
+	sample:2
+	Enter Text: GoWhAmaN@123
+	output: gowthaman@123
+102) add extra char from a text
+	sample: 1
+	Enter Text: sathya
+	Enter insert char: i
+	Enter index : 4
+
+	output: sathiya
+
+	sample :2
+
+	Enter text: kaur
+	Enter char: r
+	Enter index: 2
+
+	output: karur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================oops==========================
+101) find highest mark using object
+
+Enter total no. of students:6
+Enter roll number:1001
+Enter Name:aaa
+Enter Mark88.4
+Enter roll number:1002
+Enter Name:bbb
+Enter Mark77.4
+Enter roll number:1003
+Enter Name:cc
+Enter Mark44.5
+Enter roll number:1004
+Enter Name:dddd
+Enter Mark88.5
+Enter roll number:1005
+Enter Name:eeee
+Enter Mark99.5
+Enter roll number:1006
+Enter Name:fff
+Enter Mark87.45
+Roll number:1001
+Student Name:aaa
+Student Mark:88.4
+Roll number:1002
+Student Name:bbb
+Student Mark:77.4
+Roll number:1003
+Student Name:cc
+Student Mark:44.5
+Roll number:1004
+Student Name:dddd
+Student Mark:88.5
+Roll number:1005
+Student Name:eeee
+Student Mark:99.5
+Roll number:1006
+Student Name:fff
+Student Mark:87.45
+output:
+The highest mark: 99.5
+Highest person rno and name: 1005 eeee 
+
+	     
+102)display students details(rno,name and mark) descending order wise mark
+===========================================================================
+detailed explanation:
+
+Enter no. of studetns: 5
+enter student details:1
+Enter rno:1001
+enter name:ramesh
+enter mark:88.2
+enter student details:2
+Enter rno:1002
+enter name:sharvesh
+enter mark:98.2
+enter student details:3
+Enter rno:1003
+enter name:abi
+enter mark:98.1
+enter student details:4
+Enter rno:1004
+enter name:kavya
+enter mark:78.2
+enter student details:5
+Enter rno:1005
+enter name:chitra
+enter mark:93.2
+
+output: 
+highest to lowest mark wise details
+
+1)  1002  sharvesh  98.2
+2)  1003  abi       98.1
+3)  1005  chitra    93.2
+4)  1001  ramesh    88.2
+5)  1004  kavya     78.2
+
+103) display student details with ending words only "sh"
+
+detailed explanation:
+
+Enter no. of studetns: 5
+enter student details:1
+Enter rno:1001
+enter name:ramesh
+enter mark:88.2
+enter student details:2
+Enter rno:1002
+enter name:sharvesh
+enter mark:98.2
+enter student details:3
+Enter rno:1003
+enter name:abi
+enter mark:98.1
+enter student details:4
+Enter rno:1004
+enter name:ganesh
+enter mark:78.2
+enter student details:5
+Enter rno:1005
+enter name:chitra
+enter mark:93.2
+
+output: result in ending sh words
+
+1)  1001  ramesh    88.2
+2)  1002  sharvesh  98.2
+3   1004  ganesh     78.2
+
+104) argument passing or parameter passing using (runtime or Scanner)
+=================================================================================
+
+package program;
+class Emp
+{
+	int eno;
+	String ename;
+	int esal;
+	void getinfo(int eno,String ename,int sal)
+	{
+		this.eno=eno;
+		this.ename=ename;
+		esal=sal;
+		
+	}
+	void dis()
+	{
+		System.out.println("Emp Number:"+eno);
+		System.out.println("Emp name:"+ename);
+		System.out.println("Emp salary:"+esal);
+	}
+	
+}
+public class ArgPassing {
+
+	public static void main(String[] args) {
+	
+		Emp e1=new Emp();
+		Emp e2=new Emp();
+		
+		//e1.dis();
+		//e2.dis();
+		e1.getinfo(1001,"sharvesh", 90000);
+		e2.getinfo(1002,"gowthaman", 100000);
+		
+		e1.dis();
+		e2.dis();
+
+	}
+
+}
+
+105) with argument with return type(return type must be object)
+==============================================================
+
+106) with arg with return type (retrun type must be int array)
+==============================================================
+  only display even numbers
+
+107) with arg with return type(return highest value in an array)
+===============================================================
+
+108) 102)display students details(rno,name and mark) descending order wise mark
+===========================================================================
+using constructor (get) type 1  or type 2
+using normal method(dis)
+
+detailed explanation:
+
+Enter no. of studetns: 5
+enter student details:1
+Enter rno:1001
+enter name:ramesh
+enter mark:88.2
+enter student details:2
+Enter rno:1002
+enter name:sharvesh
+enter mark:98.2
+enter student details:3
+Enter rno:1003
+enter name:abi
+enter mark:98.1
+enter student details:4
+Enter rno:1004
+enter name:kavya
+enter mark:78.2
+enter student details:5
+Enter rno:1005
+enter name:chitra
+enter mark:93.2
+
+output: 
+highest to lowest mark wise details
+
+1)  1002  sharvesh  98.2
+2)  1003  abi       98.1
+3)  1005  chitra    93.2
+4)  1001  ramesh    88.2
+5)  1004  kavya     78.2
