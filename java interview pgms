@@ -1,0 +1,96 @@
+Java Questions for Practice and Assignment 
+1. What is the difference between compiler and Interpreter? 
+2. What are the features of object oriented programming language? 
+3. What is bytecode? 
+4. What is JVM? 
+5. Write different types of operators in java? 
+6. What is java token and different data types? 
+7. What are different types of variables in java? 
+8. What are different control structures or statements in Java? 
+9. What are jumping statements in Java? 
+10. Write syntax for single and multi dimensional array? 
+11. What is command line argument in Java. Give example? 
+12. Write the usage of Scannner class and BufferedReader Class using syntax and example? 
+13. Write difference between class and object? 
+14. What is constructor. Give example? 
+15. Write the use of static and this keywords using example? 
+16. What is array of objects? 
+17. What are access modifiers. Give example? 
+18. What is inheritance and types of inheritance? 
+19. What is polymorphism and differentiate static and dynamic polymorphism? 
+20. Differentiate method overloading and constructor overloading? 
+21. What is a method overriding and how it is related to dynamic method dispatching? 
+22. Explain different string classes in java? 
+23. What is wrapper class? 
+24. What is the difference between Auto Boxing and Un-Boxing? 
+25. What is data abstraction and give example of an abstract class? 
+26. What is a package and java API package? 
+27. What is interface. Why is needed? 
+28. What is user defined package? 
+29. Write a syntax to access the package in java? 
+30. What is Exception? 
+31. What is the difference between exception and error. Give examples. 
+32. What are different types of exceptions? 
+33. What is runtime stack mechanism in Exception? 
+34. Explain hierarchy of exception class? 
+35. What is the difference between multithreading and multiprocessing? 
+36. What is a thread in java? 
+37. What is daemon thread? 
+38. What is thread synchronization? 
+39. What is inter thread communication? 
+40. What is deadlock? Why it arises? 
+41. What is an inner class? 
+42. What is the use of java.io and java.util (collection framework) packages? 
+43. What is applet? 
+44. Explain the lifecycle of applet with example? 
+45. What is AWT and GUI? 
+46. Write description of component and container? Why they are used? 
+47. What is an event? 
+48. What is adapter classes? 
+49. What is Java Swing? Why it is used? 
+50. What is the difference between AWT and Swing? 
+By: Dr. Sourav Kumar Bhoi, CSE, PMEC Berhampur
+51. What is Java FX and use of Scene Builder? 
+Long Answer Type Questions 
+1. Write the advantages and all features of object oriented programming? Explain it? 
+2. Draw complete architecture of JVM. Describe the use of each component in JVM? 
+3. Describe different data types and operators in java with all examples? 
+4. Write a program to show the use of Scanner class and Buffered Reader Class? 
+5. Write a program to show the use of Array of Objects? 
+6. Describe the use of Access Modifiers in Java? Draw a table showing the scope of accessibility? 
+7. Write programs to show the use of access modifiers? 
+8. Write programs to show the use of Inheritence single, multilevel and hierarchical? 
+9. Write a program to show the use of constructor call in Inheritence? 
+10. Write a program to show the use of super keywork in Inheritence? 
+11. Explain and describe with a program the implementation of multiple inheritance using Interfaces in Java. 
+12. Write a program to show the use of method overloading and method overriding or dynamic method 
+dispatching? 
+13. Write a program to show the use of constructor overloading? 
+14.  Write a program to show auto boxing and unboxing? 
+15. What are different exception handling mechanisms? Explain each with a program? 
+16.  Write a program to create a user defined exception class? 
+17. Describe the complete lifecycle of a thread and explain the use of sleep(), yield(), join() with a program? 
+18. Explain thread priority with a program? 
+19. Write short notes on: 
+a. Inner class 
+b. Member Inner class 
+c. Static Inner class 
+d. Local Inner class 
+e. Anonymous Inner class 
+20. Write short notes on: 
+a. List  
+b. Set 
+c. Map 
+d. Setter Interfaces  
+e. List Interfaces 
+21. Describe the life cycle of Applet with the methods used? Describe the program body. 
+22. Describe the architecture of AWT by describing each element? 
+23. What is event handling and describe different mechanisms to handle it? 
+24. Describe listener interfaces in event handling with examples? 
+25. Draw the architecture of Swing? Describe the following elements: 
+a. Panes 
+b. JLabel 
+c. JButton 
+d. JTextArea 
+e. JTextField 
+26. Explain the working of Java FX Scene Builder?
