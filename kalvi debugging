@@ -1,0 +1,45 @@
+1)	How to reverse a string in java without using reverse?
+2)	How to check if a string contains only numeric digits?
+3)	How do you print duplicate elements from an array in java?
+4)	How to swap two integers without using temp variable?
+5)	how do you check whether a string is a palindrome in java?                                                   Note:  use for loop and while loop
+Don’t use reverse function
+6)	how do you remove spaces from a string in java?
+Don’t use replace function
+7)	how do you remove leading and trailing spaces from a string in java? 
+Don’t use trim function
+8)	how do you find the second largest number in an array in java?
+9)	how do you get distinct characters and their count in a string in java?
+Sample input and output:
+Enter string: KARURr
+K = 1
+A =1
+R=2
+U=1
+r=1
+
+10)	To check the given number is palindrome or not:
+11)	To find the reverse of each word:
+Example:
+String str = "welcome to java class";
+Output: emoclew ot avaj ssalc
+12)	To change each word's first letter to upper case:
+Example:
+String str = "welcome to java class";
+Output: welcome to java class
+13)	To remove word duplicates from a string
+
+string str = "java sql java python java python";
+
+Output: java sql python
+
+14)	To sort the characters in the given string:
+Example:
+String s = "goodday";
+Output: addgooy
+15)	Insert a string into another string in java
+Example:
+String text=”gowthamannamakkal”
+String instext=”from”
+Int index=10
+Output: gowthamanfromnamakkal
